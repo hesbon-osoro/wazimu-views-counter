@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter)
 
-### :octocat: [wazimuhb](https://github.com/wazimuhb/wazimuhb)
-![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/416882051/large/year.png)
+### :octocat: [portfolio-hb](https://github.com/wazimuhb/portfolio-hb)
+![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/419475335/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>200</code>
+			<code>37</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2021/10/27 6:21 AM UTC</i></small>
+<small><i>Last updated on 2021/10/27 6:22 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/416882051/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/416882051/week.md)
+[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/419475335/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419475335/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/416882051/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/416882051/week.md)
+[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/419475335/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419475335/week.md)
 ```
 ### Header
-# wazimuhb [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/416882051/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/416882051/year.md)
+# portfolio-hb [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/419475335/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419475335/year.md)
 ```readme
-# wazimuhb [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/416882051/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/416882051/year.md)
+# portfolio-hb [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/419475335/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419475335/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
