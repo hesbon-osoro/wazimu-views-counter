@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/wazimuhb/wazimu-views-counter/tree/master/readme/428065841/year.md">
+				restaurant
+			</a>
+		</td>
+		<td>
+			2021/11/20 9:50 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/wazimuhb/wazimu-views-counter/raw/master/graph/428065841/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/wazimuhb/wazimu-views-counter/tree/master/readme/409732468/year.md">
 				tourism-hampi
 			</a>
@@ -101,7 +117,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/11/23 6:20 PM UTC</i></small>
+<small><i>Last updated on 2021/11/23 9:51 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
