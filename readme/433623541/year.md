@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter)
 
-### :octocat: [restaurant](https://github.com/wazimuhb/restaurant)
-![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/428065841/large/year.png)
+### :octocat: [messaging-app-frontend](https://github.com/wazimuhb/messaging-app-frontend)
+![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/433623541/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/428065841/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/week.md)
+[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/433623541/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/433623541/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/428065841/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/week.md)
+[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/433623541/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/433623541/week.md)
 ```
 ### Header
-# restaurant [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/428065841/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/year.md)
+# messaging-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/433623541/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/433623541/year.md)
 ```readme
-# restaurant [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/428065841/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/year.md)
+# messaging-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/433623541/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/433623541/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
