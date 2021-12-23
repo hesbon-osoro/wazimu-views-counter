@@ -11,6 +11,11 @@
     "recipes-homemade",
     "portfolio-hb",
     "dating-app-frontend",
+    "chat-app-merng-client",
+    "photo-social-network-client",
+    "social-network-frontend",
+    "video-app",
+    "salad",
     "agency-site"
   ]
 }
