@@ -1,7 +1,7 @@
-## [🔙 wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter)
+## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [tourism-hampi](https://github.com/wazimuhb/tourism-hampi)
-![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/409732468/large/year.png)
+### :octocat: [tourism-hampi](https://github.com/hesbon-osoro/tourism-hampi)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/409732468/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/3 12:29 PM UTC</i></small>
+<small><i>Last updated on 2022/2/3 6:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/409732468/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/409732468/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/409732468/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409732468/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/409732468/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/409732468/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/409732468/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409732468/week.md)
 ```
 ### Header
-# tourism-hampi [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/409732468/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/409732468/year.md)
+# tourism-hampi [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/409732468/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409732468/year.md)
 ```readme
-# tourism-hampi [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/409732468/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/409732468/year.md)
+# tourism-hampi [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/409732468/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409732468/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

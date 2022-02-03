@@ -1,7 +1,7 @@
-## [🔙 wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter)
+## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [dating-app-frontend](https://github.com/wazimuhb/dating-app-frontend)
-![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/419255414/large/year.png)
+### :octocat: [dating-app-frontend](https://github.com/hesbon-osoro/dating-app-frontend)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/419255414/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/3 12:30 PM UTC</i></small>
+<small><i>Last updated on 2022/2/3 6:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/419255414/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419255414/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/419255414/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/419255414/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419255414/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/419255414/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/week.md)
 ```
 ### Header
-# dating-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/419255414/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419255414/year.md)
+# dating-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/419255414/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/year.md)
 ```readme
-# dating-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/419255414/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/419255414/year.md)
+# dating-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/419255414/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

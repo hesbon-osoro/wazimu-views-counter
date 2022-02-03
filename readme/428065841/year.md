@@ -1,7 +1,7 @@
-## [🔙 wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter)
+## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [restaurant](https://github.com/wazimuhb/restaurant)
-![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/428065841/large/year.png)
+### :octocat: [restaurant](https://github.com/hesbon-osoro/restaurant)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/428065841/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/3 12:29 PM UTC</i></small>
+<small><i>Last updated on 2022/2/3 6:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/428065841/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/428065841/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/428065841/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/428065841/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/428065841/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/428065841/week.md)
 ```
 ### Header
-# restaurant [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/428065841/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/year.md)
+# restaurant [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/428065841/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/428065841/year.md)
 ```readme
-# restaurant [<img alt="Image of wazimu-views-counter" src="https://github.com/wazimuhb/wazimu-views-counter/blob/master/graph/428065841/small/year.png" height="20">](https://github.com/wazimuhb/wazimu-views-counter/blob/master/readme/428065841/year.md)
+# restaurant [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/428065841/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/428065841/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
