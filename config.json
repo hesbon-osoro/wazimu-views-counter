@@ -16,6 +16,17 @@
     "social-network-frontend",
     "video-app",
     "salad",
-    "agency-site"
+    "agency-site",
+    "pulumi-gcp",
+    "pulumi-azure",
+    "pulumi-first-project",
+    "kubernetes-quickstart",
+    "monte-carlo-pi",
+    "fullstack-banking-app",
+    "reactshop",
+    "facebook-solana-blockchain",
+    "Learn-React-with-TypeScript-3",
+    "physics-ball-simulation",
+    "repository-search"    
   ]
 }
