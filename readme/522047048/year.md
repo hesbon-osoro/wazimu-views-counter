@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [monte-carlo-pi](https://github.com/hesbon-osoro/monte-carlo-pi)
-![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/483998928/large/year.png)
+### :octocat: [face-auth](https://github.com/hesbon-osoro/face-auth)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/522047048/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>15</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/8/7 6:26 PM UTC</i></small>
+<small><i>Last updated on 2022/8/7 6:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/483998928/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/483998928/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/522047048/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/522047048/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/483998928/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/483998928/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/522047048/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/522047048/week.md)
 ```
 ### Header
-# monte-carlo-pi [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/483998928/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/483998928/year.md)
+# face-auth [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/522047048/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/522047048/year.md)
 ```readme
-# monte-carlo-pi [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/483998928/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/483998928/year.md)
+# face-auth [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/522047048/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/522047048/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
