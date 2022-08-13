@@ -29,6 +29,7 @@
     "physics-ball-simulation",
     "repository-search",
     "face-auth",
-    "react-chess"
+    "react-chess",
+    "detect-and-blur-human-faces"
   ]
 }
