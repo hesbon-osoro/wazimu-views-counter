@@ -30,6 +30,8 @@
     "repository-search",
     "face-auth",
     "react-chess",
-    "detect-and-blur-human-faces"
+    "detect-and-blur-human-faces",
+    "tic-tac-toe",
+    "swagger-api-library"
   ]
 }
