@@ -32,6 +32,7 @@
     "react-chess",
     "detect-and-blur-human-faces",
     "tic-tac-toe",
-    "swagger-api-library"
+    "swagger-api-library",
+    "docker-json-server"
   ]
 }
