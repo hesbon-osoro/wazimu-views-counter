@@ -35,6 +35,7 @@
     "swagger-api-library",
     "docker-json-server",
     "shop-node-restful-api",
-    "websocket-chat"
+    "websocket-chat",
+    "websockets-chat"
   ]
 }
