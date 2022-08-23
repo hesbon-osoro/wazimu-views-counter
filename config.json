@@ -34,6 +34,7 @@
     "tic-tac-toe",
     "swagger-api-library",
     "docker-json-server",
-    "shop-node-restful-api"
+    "shop-node-restful-api",
+    "websocket-chat"
   ]
 }
