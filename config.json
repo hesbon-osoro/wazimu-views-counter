@@ -38,6 +38,7 @@
     "websocket-chat",
     "websockets-chat",
     "snappy-chat",
-    "snappy-server"
+    "snappy-server",
+    "ck-editor-react"
   ]
 }
