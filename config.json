@@ -36,6 +36,8 @@
     "docker-json-server",
     "shop-node-restful-api",
     "websocket-chat",
-    "websockets-chat"
+    "websockets-chat",
+    "snappy-chat",
+    "snappy-server"
   ]
 }
