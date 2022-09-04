@@ -39,6 +39,7 @@
     "websockets-chat",
     "snappy-chat",
     "snappy-server",
-    "ck-editor-react"
+    "ck-editor-react",
+    "ramp-job-test"
   ]
 }
