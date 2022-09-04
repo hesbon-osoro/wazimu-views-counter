@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [dating-app-frontend](https://github.com/hesbon-osoro/dating-app-frontend)
-![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/419255414/large/year.png)
+### :octocat: [ramp-job-test](https://github.com/hesbon-osoro/ramp-job-test)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/532428559/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>7</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>36</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>38</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/9/4 6:24 AM UTC</i></small>
+<small><i>Last updated on 2022/9/4 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/419255414/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/532428559/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/532428559/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/419255414/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/532428559/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/532428559/week.md)
 ```
 ### Header
-# dating-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/419255414/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/year.md)
+# ramp-job-test [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/532428559/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/532428559/year.md)
 ```readme
-# dating-app-frontend [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/419255414/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/419255414/year.md)
+# ramp-job-test [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/532428559/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/532428559/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -611,9 +611,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/529580830/small/year.png" height="20"> 44
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/532428559/year.md">
+				ramp-job-test
+			</a>
+		</td>
+		<td>
+			2022/9/1 6:29 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/532428559/small/year.png" height="20"> 7
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/4 2:16 AM UTC</i></small>
+<small><i>Last updated on 2022/9/4 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
