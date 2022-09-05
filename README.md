@@ -627,9 +627,73 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/532428559/small/year.png" height="20"> 7
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/346693048/year.md">
+				C
+			</a>
+		</td>
+		<td>
+			2022/9/2 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/346693048/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/532965591/year.md">
+				cpp
+			</a>
+		</td>
+		<td>
+			2022/9/2 6:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/532965591/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/532965831/year.md">
+				Java
+			</a>
+		</td>
+		<td>
+			2022/9/2 6:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/532965831/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/346687860/year.md">
+				Python
+			</a>
+		</td>
+		<td>
+			2022/9/2 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/346687860/small/year.png" height="20"> 4
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/5 12:48 PM UTC</i></small>
+<small><i>Last updated on 2022/9/5 6:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
