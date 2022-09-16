@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [agency-site](https://github.com/hesbon-osoro/agency-site)
-![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/409660068/large/year.png)
+### :octocat: [data-structures-and-algorithms](https://github.com/hesbon-osoro/data-structures-and-algorithms)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/537445780/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -56,10 +56,10 @@
 			<code>2022/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2021/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2021/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/9/16 12:44 PM UTC</i></small>
+<small><i>Last updated on 2022/9/16 12:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/409660068/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409660068/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/537445780/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/537445780/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/409660068/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409660068/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/537445780/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/537445780/week.md)
 ```
 ### Header
-# agency-site [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/409660068/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409660068/year.md)
+# data-structures-and-algorithms [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/537445780/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/537445780/year.md)
 ```readme
-# agency-site [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/409660068/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/409660068/year.md)
+# data-structures-and-algorithms [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/537445780/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/537445780/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
