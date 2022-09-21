@@ -46,6 +46,7 @@
     "Java",
     "Python",
     "data-structures-and-algorithms",
-    "drag-and-drop"
+    "drag-and-drop",
+    "react-select"
   ]
 }
