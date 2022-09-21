@@ -47,6 +47,7 @@
     "Python",
     "data-structures-and-algorithms",
     "drag-and-drop",
-    "react-select"
+    "react-select",
+    "custom-pagination"
   ]
 }
