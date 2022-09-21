@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [docker-json-server](https://github.com/hesbon-osoro/docker-json-server)
-![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/527262796/large/year.png)
+### :octocat: [react-select](https://github.com/hesbon-osoro/react-select)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/539547716/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/9/21 6:36 PM UTC</i></small>
+<small><i>Last updated on 2022/9/21 6:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/527262796/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/527262796/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/539547716/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/539547716/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/527262796/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/527262796/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/539547716/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/539547716/week.md)
 ```
 ### Header
-# docker-json-server [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/527262796/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/527262796/year.md)
+# react-select [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/539547716/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/539547716/year.md)
 ```readme
-# docker-json-server [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/527262796/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/527262796/year.md)
+# react-select [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/539547716/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/539547716/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
