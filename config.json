@@ -48,6 +48,8 @@
     "data-structures-and-algorithms",
     "drag-and-drop",
     "react-select",
-    "custom-pagination"
+    "custom-pagination",
+    "ecommerce-store",
+    "ecommerce-store-server"
   ]
 }
