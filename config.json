@@ -50,6 +50,7 @@
     "react-select",
     "custom-pagination",
     "ecommerce-store",
-    "ecommerce-store-server"
+    "ecommerce-store-server",
+    "shopping-cart"
   ]
 }
