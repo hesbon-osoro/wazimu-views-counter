@@ -51,6 +51,7 @@
     "custom-pagination",
     "ecommerce-store",
     "ecommerce-store-server",
-    "shopping-cart"
+    "shopping-cart",
+    "sort-visualizer"
   ]
 }
