@@ -819,9 +819,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/541545852/small/year.png" height="20"> 12
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/542555303/year.md">
+				snake-game
+			</a>
+		</td>
+		<td>
+			2022/9/25 6:40 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/542555303/small/year.png" height="20"> 10
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/28 7:06 AM UTC</i></small>
+<small><i>Last updated on 2022/9/28 6:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
