@@ -52,6 +52,7 @@
     "ecommerce-store",
     "ecommerce-store-server",
     "shopping-cart",
-    "sort-visualizer"
+    "sort-visualizer",
+    "snake-game"
   ]
 }
