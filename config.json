@@ -53,6 +53,7 @@
     "ecommerce-store-server",
     "shopping-cart",
     "sort-visualizer",
-    "snake-game"
+    "snake-game",
+    "alarm-clock"
   ]
 }
