@@ -851,9 +851,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/543028550/small/year.png" height="20"> 8
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/540853635/year.md">
+				shoppy-admin-dashboard
+			</a>
+		</td>
+		<td>
+			2022/10/2 1:00 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/540853635/small/year.png" height="20"> 13
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/546044786/year.md">
+				simple-multistep-form
+			</a>
+		</td>
+		<td>
+			2022/10/2 1:00 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/546044786/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/5 6:48 AM UTC</i></small>
+<small><i>Last updated on 2022/10/5 1:01 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
