@@ -55,6 +55,7 @@
     "sort-visualizer",
     "snake-game",
     "alarm-clock",
-    "shoppy-admin-dashboard"
+    "shoppy-admin-dashboard",
+    "simple-multistep-form"
   ]
 }
