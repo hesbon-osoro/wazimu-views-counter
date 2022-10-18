@@ -899,9 +899,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/546093298/small/year.png" height="20"> 35
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/553723884/year.md">
+				distance-matrix-routing
+			</a>
+		</td>
+		<td>
+			2022/10/15 6:45 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/553723884/small/year.png" height="20"> 3
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/18 1:01 PM UTC</i></small>
+<small><i>Last updated on 2022/10/18 6:45 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
