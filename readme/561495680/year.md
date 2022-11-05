@@ -1,7 +1,7 @@
 ## [🔙 wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-### :octocat: [ecommerce-store](https://github.com/hesbon-osoro/ecommerce-store)
-![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/530359122/large/year.png)
+### :octocat: [dynamic-next-previous-buttons](https://github.com/hesbon-osoro/dynamic-next-previous-buttons)
+![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/561495680/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>14</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>48</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/11/5 12:41 PM UTC</i></small>
+<small><i>Last updated on 2022/11/5 12:43 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/530359122/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/530359122/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/561495680/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/561495680/week.md)
 ```readme
-[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/530359122/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/530359122/week.md)
+[![Image of wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/561495680/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/561495680/week.md)
 ```
 ### Header
-# ecommerce-store [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/530359122/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/530359122/year.md)
+# dynamic-next-previous-buttons [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/561495680/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/561495680/year.md)
 ```readme
-# ecommerce-store [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/530359122/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/530359122/year.md)
+# dynamic-next-previous-buttons [<img alt="Image of wazimu-views-counter" src="https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/graph/561495680/small/year.png" height="20">](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/readme/561495680/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
