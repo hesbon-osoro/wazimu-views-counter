@@ -61,6 +61,8 @@
     "distance-matrix-routing",
     "credit-card",
     "weather-app",
-    "dynamic-next-previous-buttons"
+    "dynamic-next-previous-buttons",
+    "nestjs-video-streaming",
+    "nextjs-video-streaming"
   ]
 }
