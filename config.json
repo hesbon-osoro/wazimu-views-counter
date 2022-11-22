@@ -63,6 +63,7 @@
     "weather-app",
     "dynamic-next-previous-buttons",
     "nestjs-video-streaming",
-    "nextjs-video-streaming"
+    "nextjs-video-streaming",
+    "github-graphql-server"
   ]
 }
