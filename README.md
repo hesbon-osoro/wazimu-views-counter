@@ -1171,9 +1171,73 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575009446/small/year.png" height="20"> 7
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575338031/year.md">
+				Costume-Expressions
+			</a>
+		</td>
+		<td>
+			2022/12/4 12:44 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575338031/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575345081/year.md">
+				Pandaisia-Chocolates
+			</a>
+		</td>
+		<td>
+			2022/12/4 12:44 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575345081/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575352304/year.md">
+				Slate-and-Pencil-Tutoring
+			</a>
+		</td>
+		<td>
+			2022/12/4 12:45 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575352304/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575358573/year.md">
+				The-Park-City-Gazette
+			</a>
+		</td>
+		<td>
+			2022/12/4 12:45 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575358573/small/year.png" height="20"> 4
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/7 6:32 AM UTC</i></small>
+<small><i>Last updated on 2022/12/7 12:45 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
