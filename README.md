@@ -1242,7 +1242,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/5 12:43 PM UTC
+			2022/12/6 12:43 PM UTC
 		</td>
 		<td>
 			1
@@ -1258,7 +1258,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/5 12:43 PM UTC
+			2022/12/6 12:43 PM UTC
 		</td>
 		<td>
 			1
@@ -1274,7 +1274,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/5 12:43 PM UTC
+			2022/12/6 12:43 PM UTC
 		</td>
 		<td>
 			0
@@ -1290,7 +1290,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/5 12:43 PM UTC
+			2022/12/6 12:43 PM UTC
 		</td>
 		<td>
 			0
@@ -1306,7 +1306,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/12/5 12:44 PM UTC
+			2022/12/6 12:44 PM UTC
 		</td>
 		<td>
 			0
@@ -1315,9 +1315,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575846981/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575853153/year.md">
+				Cauli-Wood-Gallery
+			</a>
+		</td>
+		<td>
+			2022/12/5 6:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575853153/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575858412/year.md">
+				Golden-Pulps
+			</a>
+		</td>
+		<td>
+			2022/12/5 6:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575858412/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/8 12:44 PM UTC</i></small>
+<small><i>Last updated on 2022/12/8 6:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
