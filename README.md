@@ -1347,9 +1347,57 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575858412/small/year.png" height="20"> 1
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576205498/year.md">
+				Jersey-Buoys
+			</a>
+		</td>
+		<td>
+			2022/12/6 12:44 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576205498/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576216172/year.md">
+				Trusted-Friends
+			</a>
+		</td>
+		<td>
+			2022/12/6 12:44 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576216172/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/574696166/year.md">
+				Philip-Henslowe-Classic-Theatre
+			</a>
+		</td>
+		<td>
+			2022/12/7 1:37 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574696166/small/year.png" height="20"> 10
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/9 6:35 AM UTC</i></small>
+<small><i>Last updated on 2022/12/9 12:44 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
