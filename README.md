@@ -1381,6 +1381,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576711789/year.md">
+				Willet-Creek
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:32 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576711789/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576713196/year.md">
+				DLR-Morning-Schedule
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:32 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576713196/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/574696166/year.md">
 				Philip-Henslowe-Classic-Theatre
 			</a>
@@ -1395,9 +1427,137 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574696166/small/year.png" height="20"> 10
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576648513/year.md">
+				Federalist
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:32 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576648513/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576647330/year.md">
+				Gridirony
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:32 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576647330/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576643344/year.md">
+				JSWorks
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:32 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576643344/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576641301/year.md">
+				New-Accents-Photography
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:32 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576641301/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576639776/year.md">
+				Subsistence
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576639776/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576638259/year.md">
+				DeLong-Enterprises
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576638259/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576632617/year.md">
+				Espresso-machine-order
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576632617/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576636788/year.md">
+				Media-Arts-Society
+			</a>
+		</td>
+		<td>
+			2022/12/7 6:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576636788/small/year.png" height="20"> 6
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/10 12:43 PM UTC</i></small>
+<small><i>Last updated on 2022/12/10 6:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
