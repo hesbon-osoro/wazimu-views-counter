@@ -2147,9 +2147,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/580586901/small/year.png" height="20"> 13
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/567774937/year.md">
+				follow-for-follow-back
+			</a>
+		</td>
+		<td>
+			2022/12/26 6:39 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/567774937/small/year.png" height="20"> 9
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/29 12:48 PM UTC</i></small>
+<small><i>Last updated on 2022/12/29 6:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
