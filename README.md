@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:20 AM UTC
+			2023/2/28 6:05 AM UTC
 		</td>
 		<td>
 			131
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:05 AM UTC
 		</td>
 		<td>
 			89
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:20 AM UTC
+			2023/2/28 6:06 AM UTC
 		</td>
 		<td>
 			59
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:06 AM UTC
 		</td>
 		<td>
 			83
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:06 AM UTC
 		</td>
 		<td>
 			9
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:06 AM UTC
 		</td>
 		<td>
 			15
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:06 AM UTC
 		</td>
 		<td>
 			7
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:06 AM UTC
 		</td>
 		<td>
 			15
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			10
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			13
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:21 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			14
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			10
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			6
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			10
@@ -250,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:07 AM UTC
 		</td>
 		<td>
 			12
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			11
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			9
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:22 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			13
@@ -314,7 +314,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			17
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			55
@@ -346,7 +346,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			9
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:08 AM UTC
 		</td>
 		<td>
 			16
@@ -378,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:09 AM UTC
 		</td>
 		<td>
 			7
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:09 AM UTC
 		</td>
 		<td>
 			7
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:23 AM UTC
+			2023/2/28 6:09 AM UTC
 		</td>
 		<td>
 			22
@@ -426,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:24 AM UTC
+			2023/2/28 6:09 AM UTC
 		</td>
 		<td>
 			24
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:24 AM UTC
+			2023/2/28 6:09 AM UTC
 		</td>
 		<td>
 			10
@@ -458,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:24 AM UTC
+			2023/2/28 6:09 AM UTC
 		</td>
 		<td>
 			17
@@ -474,13 +474,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			219
+			223
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/526658240/small/year.png" height="20"> 874
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/526658240/small/year.png" height="20"> 881
 		</td>
 	</tr>
 	<tr>
@@ -490,7 +490,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:24 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			5
@@ -506,7 +506,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:24 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			9
@@ -522,7 +522,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:24 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			10
@@ -538,7 +538,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:25 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			6
@@ -554,7 +554,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:25 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			7
@@ -570,7 +570,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:25 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			15
@@ -586,7 +586,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:25 AM UTC
+			2023/2/28 6:10 AM UTC
 		</td>
 		<td>
 			10
@@ -602,7 +602,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			139
@@ -618,7 +618,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:25 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			21
@@ -634,7 +634,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:25 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			7
@@ -650,7 +650,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			4
@@ -666,7 +666,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			11
@@ -682,7 +682,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			9
@@ -698,7 +698,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:11 AM UTC
 		</td>
 		<td>
 			23
@@ -714,7 +714,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:12 AM UTC
 		</td>
 		<td>
 			9
@@ -730,7 +730,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:12 AM UTC
 		</td>
 		<td>
 			19
@@ -746,7 +746,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:26 AM UTC
+			2023/2/28 6:12 AM UTC
 		</td>
 		<td>
 			7
@@ -762,7 +762,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:27 AM UTC
+			2023/2/28 6:12 AM UTC
 		</td>
 		<td>
 			41
@@ -778,7 +778,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:27 AM UTC
+			2023/2/28 6:12 AM UTC
 		</td>
 		<td>
 			11
@@ -794,7 +794,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:12 AM UTC
 		</td>
 		<td>
 			336
@@ -810,7 +810,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:27 AM UTC
+			2023/2/28 6:13 AM UTC
 		</td>
 		<td>
 			9
@@ -826,7 +826,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:27 AM UTC
+			2023/2/28 6:13 AM UTC
 		</td>
 		<td>
 			340
@@ -842,13 +842,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			254
+			257
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/543028550/small/year.png" height="20"> 1722
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/543028550/small/year.png" height="20"> 1730
 		</td>
 	</tr>
 	<tr>
@@ -858,7 +858,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:27 AM UTC
+			2023/2/28 6:13 AM UTC
 		</td>
 		<td>
 			39
@@ -874,13 +874,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			250
+			251
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/546044786/small/year.png" height="20"> 1153
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/546044786/small/year.png" height="20"> 1154
 		</td>
 	</tr>
 	<tr>
@@ -890,7 +890,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 6:13 AM UTC
 		</td>
 		<td>
 			27
@@ -906,7 +906,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 6:13 AM UTC
 		</td>
 		<td>
 			21
@@ -922,7 +922,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 6:14 AM UTC
 		</td>
 		<td>
 			14
@@ -938,7 +938,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 6:14 AM UTC
 		</td>
 		<td>
 			16
@@ -954,7 +954,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 6:14 AM UTC
 		</td>
 		<td>
 			10
@@ -970,7 +970,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:28 AM UTC
+			2023/2/28 6:14 AM UTC
 		</td>
 		<td>
 			70
@@ -986,7 +986,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:29 AM UTC
+			2023/2/28 6:14 AM UTC
 		</td>
 		<td>
 			27
@@ -1002,7 +1002,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:29 AM UTC
+			2023/2/28 6:14 AM UTC
 		</td>
 		<td>
 			4
@@ -1018,13 +1018,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			54
+			56
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574641298/small/year.png" height="20"> 247
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574641298/small/year.png" height="20"> 249
 		</td>
 	</tr>
 	<tr>
@@ -1034,7 +1034,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:29 AM UTC
+			2023/2/28 6:15 AM UTC
 		</td>
 		<td>
 			10
@@ -1050,13 +1050,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:29 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574674077/small/year.png" height="20"> 53
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574674077/small/year.png" height="20"> 59
 		</td>
 	</tr>
 	<tr>
@@ -1066,7 +1066,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:29 AM UTC
+			2023/2/28 6:15 AM UTC
 		</td>
 		<td>
 			9
@@ -1082,7 +1082,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:15 AM UTC
 		</td>
 		<td>
 			25
@@ -1098,7 +1098,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:30 AM UTC
+			2023/2/28 6:15 AM UTC
 		</td>
 		<td>
 			7
@@ -1114,7 +1114,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:15 AM UTC
 		</td>
 		<td>
 			15
@@ -1130,13 +1130,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:30 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574995026/small/year.png" height="20"> 23
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574995026/small/year.png" height="20"> 27
 		</td>
 	</tr>
 	<tr>
@@ -1146,13 +1146,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:30 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575003764/small/year.png" height="20"> 14
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575003764/small/year.png" height="20"> 18
 		</td>
 	</tr>
 	<tr>
@@ -1162,7 +1162,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:16 AM UTC
 		</td>
 		<td>
 			36
@@ -1178,7 +1178,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:16 AM UTC
 		</td>
 		<td>
 			18
@@ -1194,7 +1194,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:16 AM UTC
 		</td>
 		<td>
 			21
@@ -1210,7 +1210,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:16 AM UTC
 		</td>
 		<td>
 			11
@@ -1226,7 +1226,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:16 AM UTC
 		</td>
 		<td>
 			2
@@ -1242,7 +1242,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:16 AM UTC
 		</td>
 		<td>
 			3
@@ -1258,7 +1258,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:17 AM UTC
 		</td>
 		<td>
 			9
@@ -1274,7 +1274,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:17 AM UTC
 		</td>
 		<td>
 			11
@@ -1290,7 +1290,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:17 AM UTC
 		</td>
 		<td>
 			9
@@ -1306,7 +1306,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:17 AM UTC
 		</td>
 		<td>
 			2
@@ -1322,7 +1322,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:31 AM UTC
+			2023/2/28 6:17 AM UTC
 		</td>
 		<td>
 			8
@@ -1338,7 +1338,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:17 AM UTC
 		</td>
 		<td>
 			9
@@ -1354,7 +1354,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:32 AM UTC
+			2023/2/28 6:18 AM UTC
 		</td>
 		<td>
 			6
@@ -1370,7 +1370,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:32 AM UTC
+			2023/2/28 6:18 AM UTC
 		</td>
 		<td>
 			4
@@ -1386,7 +1386,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:32 AM UTC
+			2023/2/28 6:18 AM UTC
 		</td>
 		<td>
 			10
@@ -1402,7 +1402,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:32 AM UTC
+			2023/2/28 6:18 AM UTC
 		</td>
 		<td>
 			2
@@ -1418,7 +1418,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:32 AM UTC
+			2023/2/28 6:18 AM UTC
 		</td>
 		<td>
 			5
@@ -1434,7 +1434,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 6:18 AM UTC
 		</td>
 		<td>
 			10
@@ -1450,13 +1450,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			16
+			17
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576731099/small/year.png" height="20"> 111
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576731099/small/year.png" height="20"> 122
 		</td>
 	</tr>
 	<tr>
@@ -1466,13 +1466,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:33 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			10
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576732117/small/year.png" height="20"> 49
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576732117/small/year.png" height="20"> 51
 		</td>
 	</tr>
 	<tr>
@@ -1482,7 +1482,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:33 AM UTC
+			2023/2/28 6:19 AM UTC
 		</td>
 		<td>
 			8
@@ -1498,7 +1498,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:33 AM UTC
+			2023/2/28 6:19 AM UTC
 		</td>
 		<td>
 			2
@@ -1514,13 +1514,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:33 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			8
+			9
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576739040/small/year.png" height="20"> 29
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576739040/small/year.png" height="20"> 32
 		</td>
 	</tr>
 	<tr>
@@ -1530,7 +1530,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:33 AM UTC
+			2023/2/28 6:19 AM UTC
 		</td>
 		<td>
 			4
@@ -1546,13 +1546,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:33 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576743685/small/year.png" height="20"> 18
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576743685/small/year.png" height="20"> 21
 		</td>
 	</tr>
 	<tr>
@@ -1562,7 +1562,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:34 AM UTC
+			2023/2/28 6:19 AM UTC
 		</td>
 		<td>
 			17
@@ -1578,13 +1578,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			21
+			22
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576749462/small/year.png" height="20"> 63
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576749462/small/year.png" height="20"> 64
 		</td>
 	</tr>
 	<tr>
@@ -1594,13 +1594,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:34 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576750993/small/year.png" height="20"> 21
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576750993/small/year.png" height="20"> 24
 		</td>
 	</tr>
 	<tr>
@@ -1610,7 +1610,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:34 AM UTC
+			2023/2/28 6:20 AM UTC
 		</td>
 		<td>
 			9
@@ -1626,7 +1626,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:34 AM UTC
+			2023/2/28 6:20 AM UTC
 		</td>
 		<td>
 			3
@@ -1642,7 +1642,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:34 AM UTC
+			2023/2/28 6:20 AM UTC
 		</td>
 		<td>
 			12
@@ -1658,7 +1658,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:34 AM UTC
+			2023/2/28 6:20 AM UTC
 		</td>
 		<td>
 			11
@@ -1674,7 +1674,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:30 AM UTC
+			2023/2/28 6:15 AM UTC
 		</td>
 		<td>
 			7
@@ -1690,13 +1690,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:35 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576757038/small/year.png" height="20"> 21
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576757038/small/year.png" height="20"> 26
 		</td>
 	</tr>
 	<tr>
@@ -1706,7 +1706,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:35 AM UTC
+			2023/2/28 6:21 AM UTC
 		</td>
 		<td>
 			5
@@ -1722,7 +1722,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:35 AM UTC
+			2023/2/28 6:21 AM UTC
 		</td>
 		<td>
 			4
@@ -1738,7 +1738,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:35 AM UTC
+			2023/2/28 6:21 AM UTC
 		</td>
 		<td>
 			15
@@ -1754,7 +1754,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:35 AM UTC
+			2023/2/28 6:21 AM UTC
 		</td>
 		<td>
 			9
@@ -1770,7 +1770,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:35 AM UTC
+			2023/2/28 6:21 AM UTC
 		</td>
 		<td>
 			6
@@ -1786,7 +1786,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 6:22 AM UTC
 		</td>
 		<td>
 			17
@@ -1802,13 +1802,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576763151/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576763151/small/year.png" height="20"> 14
 		</td>
 	</tr>
 	<tr>
@@ -1818,7 +1818,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 6:22 AM UTC
 		</td>
 		<td>
 			2
@@ -1834,7 +1834,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 6:22 AM UTC
 		</td>
 		<td>
 			8
@@ -1850,7 +1850,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 6:22 AM UTC
 		</td>
 		<td>
 			7
@@ -1866,7 +1866,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 6:22 AM UTC
 		</td>
 		<td>
 			8
@@ -1882,7 +1882,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 6:22 AM UTC
 		</td>
 		<td>
 			2
@@ -1898,13 +1898,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:36 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576647330/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576647330/small/year.png" height="20"> 13
 		</td>
 	</tr>
 	<tr>
@@ -1914,7 +1914,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:37 AM UTC
+			2023/2/28 6:23 AM UTC
 		</td>
 		<td>
 			2
@@ -1930,7 +1930,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:37 AM UTC
+			2023/2/28 6:23 AM UTC
 		</td>
 		<td>
 			6
@@ -1946,7 +1946,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:37 AM UTC
+			2023/2/28 6:23 AM UTC
 		</td>
 		<td>
 			3
@@ -1962,7 +1962,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:37 AM UTC
+			2023/2/28 6:23 AM UTC
 		</td>
 		<td>
 			3
@@ -1978,7 +1978,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:37 AM UTC
+			2023/2/28 6:23 AM UTC
 		</td>
 		<td>
 			2
@@ -1994,7 +1994,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:37 AM UTC
+			2023/2/28 6:23 AM UTC
 		</td>
 		<td>
 			19
@@ -2010,7 +2010,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 6:24 AM UTC
 		</td>
 		<td>
 			3
@@ -2026,7 +2026,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 6:24 AM UTC
 		</td>
 		<td>
 			3
@@ -2042,7 +2042,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 6:24 AM UTC
 		</td>
 		<td>
 			5
@@ -2058,7 +2058,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 6:24 AM UTC
 		</td>
 		<td>
 			2
@@ -2074,7 +2074,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 6:24 AM UTC
 		</td>
 		<td>
 			2
@@ -2090,7 +2090,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 6:24 AM UTC
 		</td>
 		<td>
 			4
@@ -2106,13 +2106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:38 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			11
+			14
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/577015931/small/year.png" height="20"> 32
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/577015931/small/year.png" height="20"> 44
 		</td>
 	</tr>
 	<tr>
@@ -2122,13 +2122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:00 AM UTC
+			2023/2/28 12:00 AM UTC
 		</td>
 		<td>
-			38
+			39
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574197128/small/year.png" height="20"> 98
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/574197128/small/year.png" height="20"> 101
 		</td>
 	</tr>
 	<tr>
@@ -2138,7 +2138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:39 AM UTC
+			2023/2/28 6:25 AM UTC
 		</td>
 		<td>
 			5
@@ -2154,7 +2154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/2/27 12:39 AM UTC
+			2023/2/28 6:25 AM UTC
 		</td>
 		<td>
 			20
@@ -2165,7 +2165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/3/1 6:25 PM UTC</i></small>
+<small><i>Last updated on 2023/3/2 12:41 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
