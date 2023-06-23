@@ -1205,6 +1205,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575352304/year.md">
+				Slate-and-Pencil-Tutoring
+			</a>
+		</td>
+		<td>
+			2023/6/21 1:35 AM UTC
+		</td>
+		<td>
+			28
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575352304/small/year.png" height="20"> 103
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575358573/year.md">
 				The-Park-City-Gazette
 			</a>
@@ -2149,7 +2165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/6/23 12:43 AM UTC</i></small>
+<small><i>Last updated on 2023/6/23 6:30 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
