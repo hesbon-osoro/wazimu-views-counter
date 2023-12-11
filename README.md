@@ -1941,22 +1941,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576639776/year.md">
-				Subsistence
-			</a>
-		</td>
-		<td>
-			2023/12/9 12:32 AM UTC
-		</td>
-		<td>
-			35
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576639776/small/year.png" height="20"> 152
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576638259/year.md">
 				DeLong-Enterprises
 			</a>
@@ -2165,7 +2149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/11 12:46 PM UTC</i></small>
+<small><i>Last updated on 2023/12/11 6:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
