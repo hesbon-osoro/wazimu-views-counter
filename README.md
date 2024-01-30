@@ -565,22 +565,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/528601148/year.md">
-				snappy-chat
-			</a>
-		</td>
-		<td>
-			2024/1/28 1:15 AM UTC
-		</td>
-		<td>
-			29
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/528601148/small/year.png" height="20"> 78
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/528605831/year.md">
 				snappy-server
 			</a>
@@ -2165,7 +2149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/1/30 1:20 AM UTC</i></small>
+<small><i>Last updated on 2024/1/30 6:34 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
