@@ -965,22 +965,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/560993782/year.md">
-				nestjs-video-streaming
-			</a>
-		</td>
-		<td>
-			2024/4/7 1:20 AM UTC
-		</td>
-		<td>
-			587
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/560993782/small/year.png" height="20"> 5202
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/561030420/year.md">
 				nextjs-video-streaming
 			</a>
@@ -2165,7 +2149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/4/9 12:44 PM UTC</i></small>
+<small><i>Last updated on 2024/4/9 6:32 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
