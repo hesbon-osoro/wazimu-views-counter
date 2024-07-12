@@ -1285,22 +1285,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575843579/year.md">
-				Sky-Dust-Stories
-			</a>
-		</td>
-		<td>
-			2024/7/10 12:29 AM UTC
-		</td>
-		<td>
-			149
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575843579/small/year.png" height="20"> 1058
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575846981/year.md">
 				Tree-and-Book
 			</a>
@@ -2165,7 +2149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/7/12 12:24 PM UTC</i></small>
+<small><i>Last updated on 2024/7/12 6:22 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
