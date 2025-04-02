@@ -997,22 +997,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/569442055/year.md">
-				github-graphql-server
-			</a>
-		</td>
-		<td>
-			2025/3/31 12:34 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/569442055/small/year.png" height="20"> 20
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/574641298/year.md">
 				DianesRun
 			</a>
@@ -2181,7 +2165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/2 12:26 PM UTC</i></small>
+<small><i>Last updated on 2025/4/2 6:23 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
