@@ -933,6 +933,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/558508339/year.md">
+				weather-app
+			</a>
+		</td>
+		<td>
+			2025/4/1 12:36 AM UTC
+		</td>
+		<td>
+			53
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/558508339/small/year.png" height="20"> 418
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/561495680/year.md">
 				dynamic-next-previous-buttons
 			</a>
@@ -1457,22 +1473,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576732117/small/year.png" height="20"> 4382
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576733114/year.md">
-				ACGIP-Conference
-			</a>
-		</td>
-		<td>
-			2025/4/1 12:00 AM UTC
-		</td>
-		<td>
-			420
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576733114/small/year.png" height="20"> 2597
 		</td>
 	</tr>
 	<tr>
@@ -2165,7 +2165,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 12:41 AM UTC</i></small>
+<small><i>Last updated on 2025/4/3 6:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
