@@ -581,22 +581,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/528605831/year.md">
-				snappy-server
-			</a>
-		</td>
-		<td>
-			2025/4/1 12:33 AM UTC
-		</td>
-		<td>
-			21
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/528605831/small/year.png" height="20"> 45
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/529580830/year.md">
 				ck-editor-react
 			</a>
@@ -1237,22 +1221,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575825144/year.md">
-				Browyer-Realty
-			</a>
-		</td>
-		<td>
-			2025/4/1 12:38 AM UTC
-		</td>
-		<td>
-			68
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575825144/small/year.png" height="20"> 882
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575832170/year.md">
 				Chupacabra-Music-Festival
 			</a>
@@ -1473,6 +1441,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576732117/small/year.png" height="20"> 4382
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576733114/year.md">
+				ACGIP-Conference
+			</a>
+		</td>
+		<td>
+			2025/4/1 12:00 AM UTC
+		</td>
+		<td>
+			420
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576733114/small/year.png" height="20"> 2597
 		</td>
 	</tr>
 	<tr>
@@ -2165,7 +2149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 6:25 AM UTC</i></small>
+<small><i>Last updated on 2025/4/3 12:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
