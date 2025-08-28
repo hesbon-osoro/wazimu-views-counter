@@ -139,6 +139,7 @@
     "follow-for-follow-back",
     "lights-out",
     "vscode-extensions-installer",
-    "sudoku-solver"
+    "sudoku-solver",
+    "chromafill"
   ]
 }
