@@ -140,6 +140,7 @@
     "lights-out",
     "vscode-extensions-installer",
     "sudoku-solver",
-    "chromafill"
+    "chromafill",
+    "repetition-spotter"
   ]
 }
