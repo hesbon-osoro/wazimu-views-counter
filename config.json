@@ -141,6 +141,7 @@
     "vscode-extensions-installer",
     "sudoku-solver",
     "chromafill",
-    "repetition-spotter"
+    "repetition-spotter",
+    "audio-reader-highlight"
   ]
 }
