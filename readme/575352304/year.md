@@ -37,7 +37,7 @@
 			<code>40</code>
 		</td>
 		<td>
-			<code>203</code>
+			<code>199</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/11/11 6:13 PM UTC</i></small>
+<small><i>Last updated on 2025/11/12 12:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
