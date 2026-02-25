@@ -37,22 +37,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/418403642/year.md">
-				wazimu-views-counter
-			</a>
-		</td>
-		<td>
-			2026/2/23 12:40 AM UTC
-		</td>
-		<td>
-			169
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/418403642/small/year.png" height="20"> 530
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/428065841/year.md">
 				restaurant
 			</a>
@@ -2261,7 +2245,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/25 6:35 AM UTC</i></small>
+<small><i>Last updated on 2026/2/25 12:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
