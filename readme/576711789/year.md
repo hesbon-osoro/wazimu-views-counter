@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2026/5/17 6:32 PM UTC</i></small>
+<small><i>Last updated on 2026/5/18 1:03 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
