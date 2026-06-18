@@ -261,6 +261,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/507425490/year.md">
+				pulumi-azure
+			</a>
+		</td>
+		<td>
+			2026/6/16 1:16 AM UTC
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/507425490/small/year.png" height="20"> 31
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/507414722/year.md">
 				pulumi-first-project
 			</a>
@@ -2245,7 +2261,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/18 1:13 AM UTC</i></small>
+<small><i>Last updated on 2026/6/18 7:57 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
