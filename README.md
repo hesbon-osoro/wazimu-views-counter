@@ -1173,22 +1173,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575338031/year.md">
-				Costume-Expressions
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:00 AM UTC
-		</td>
-		<td>
-			169
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575338031/small/year.png" height="20"> 914
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575345081/year.md">
 				Pandaisia-Chocolates
 			</a>
@@ -1249,38 +1233,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575825144/small/year.png" height="20"> 968
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575832170/year.md">
-				Chupacabra-Music-Festival
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:00 AM UTC
-		</td>
-		<td>
-			310
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575832170/small/year.png" height="20"> 1354
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/575838230/year.md">
-				Save-your-Fork
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:00 AM UTC
-		</td>
-		<td>
-			344
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/575838230/small/year.png" height="20"> 1405
 		</td>
 	</tr>
 	<tr>
@@ -1397,38 +1349,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576713196/year.md">
-				DLR-Morning-Schedule
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:01 AM UTC
-		</td>
-		<td>
-			225
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576713196/small/year.png" height="20"> 1098
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576718680/year.md">
-				Hamilton-Conference-Center
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:01 AM UTC
-		</td>
-		<td>
-			52
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576718680/small/year.png" height="20"> 482
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576719871/year.md">
 				Marlin-Internet
 			</a>
@@ -1489,38 +1409,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576733114/small/year.png" height="20"> 3206
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576734210/year.md">
-				Millennium-Computers
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:01 AM UTC
-		</td>
-		<td>
-			35
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576734210/small/year.png" height="20"> 207
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/hesbon-osoro/wazimu-views-counter/tree/master/readme/576739040/year.md">
-				The-Spice-Bowl
-			</a>
-		</td>
-		<td>
-			2026/8/9 2:01 AM UTC
-		</td>
-		<td>
-			549
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/hesbon-osoro/wazimu-views-counter/raw/master/graph/576739040/small/year.png" height="20"> 2381
 		</td>
 	</tr>
 	<tr>
@@ -2261,7 +2149,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/11 1:17 PM UTC</i></small>
+<small><i>Last updated on 2026/8/11 7:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
